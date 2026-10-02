@@ -1,0 +1,31 @@
+file_id,filename,attaque,snr_db,stoi,pesq,ber_wm1_pct,ber_wm2_pct,execution_time_sec
+1,sample_test_01.wav,Sans Attaque (Clean),26.83,0.2724,1.0141,0.0,0.0,0.14
+1,sample_test_01.wav,Voice Conversion (WORLD),-5.230000019073486,0.1955,1.0143,37.5,0.0,0.86
+1,sample_test_01.wav,Bruit Blanc (AWGN 20dB),19.1299991607666,0.1921,1.0141,6.25,0.0,0.14
+1,sample_test_01.wav,Filtrage Passe-Bas (3.5kHz),21.899999618530273,0.2738,1.0141,31.25,0.0,0.15
+1,sample_test_01.wav,Resampling (16k->8k->16k),30.43000030517578,0.2785,1.0141,6.25,0.0,0.16
+1,sample_test_01.wav,Compression MP3 (64 kbps),25.209999084472656,0.2706,1.0141,31.25,0.0,0.14
+2,sample_test_02.wav,Sans Attaque (Clean),26.83,0.1478,1.2515,0.0,0.0,0.15
+2,sample_test_02.wav,Voice Conversion (WORLD),-5.130000114440918,0.1068,1.1942,37.5,0.0,0.94
+2,sample_test_02.wav,Bruit Blanc (AWGN 20dB),19.190000534057617,0.1251,1.0435,31.25,0.0,0.17
+2,sample_test_02.wav,Filtrage Passe-Bas (3.5kHz),16.34000015258789,0.1495,1.3503,25.0,0.0,0.13
+2,sample_test_02.wav,Resampling (16k->8k->16k),30.399999618530273,0.1506,1.5198,31.25,0.0,0.12
+2,sample_test_02.wav,Compression MP3 (64 kbps),20.959999084472656,0.145,1.2702,25.0,0.0,0.13
+3,sample_test_03.wav,Sans Attaque (Clean),26.91,0.111,1.2476,0.0,0.0,0.12
+3,sample_test_03.wav,Voice Conversion (WORLD),-4.71999979019165,-0.006,1.0849,37.5,0.0,1.48
+3,sample_test_03.wav,Bruit Blanc (AWGN 20dB),19.25,0.1062,1.043,18.75,0.0,0.23
+3,sample_test_03.wav,Filtrage Passe-Bas (3.5kHz),12.850000381469727,0.1111,1.4912,25.0,0.0,0.2
+3,sample_test_03.wav,Resampling (16k->8k->16k),30.510000228881836,0.1116,1.5434,18.75,0.0,0.15
+3,sample_test_03.wav,Compression MP3 (64 kbps),17.809999465942383,0.1046,1.3518,25.0,0.0,0.21
+4,sample_test_04.wav,Sans Attaque (Clean),26.8,0.1516,1.2537,0.0,0.0,0.17
+4,sample_test_04.wav,Voice Conversion (WORLD),-5.949999809265137,0.0249,1.0904,43.75,0.0,1.54
+4,sample_test_04.wav,Bruit Blanc (AWGN 20dB),19.149999618530273,0.0992,1.0477,25.0,0.0,0.14
+4,sample_test_04.wav,Filtrage Passe-Bas (3.5kHz),10.300000190734863,0.1534,1.5191,25.0,0.0,0.12
+4,sample_test_04.wav,Resampling (16k->8k->16k),30.360000610351562,0.1604,1.5788,25.0,0.0,0.15
+4,sample_test_04.wav,Compression MP3 (64 kbps),15.40999984741211,0.1471,1.3689,25.0,0.0,0.12
+5,sample_test_05.wav,Sans Attaque (Clean),26.81,0.1434,1.2583,0.0,0.0,0.12
+5,sample_test_05.wav,Voice Conversion (WORLD),-5.929999828338623,0.0272,1.121,43.75,0.0,0.99
+5,sample_test_05.wav,Bruit Blanc (AWGN 20dB),19.170000076293945,0.1323,1.0496,25.0,0.0,0.14
+5,sample_test_05.wav,Filtrage Passe-Bas (3.5kHz),8.289999961853027,0.1411,1.5341,12.5,0.0,0.11
+5,sample_test_05.wav,Resampling (16k->8k->16k),30.40999984741211,0.1352,1.5994,25.0,0.0,0.12
+5,sample_test_05.wav,Compression MP3 (64 kbps),13.489999771118164,0.1424,1.378,12.5,0.0,0.13

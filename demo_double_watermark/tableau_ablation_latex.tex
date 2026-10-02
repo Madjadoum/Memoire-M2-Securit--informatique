@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+\centering
+\caption{Étude d'ablation validant la complémentarité des couches WM1 et WM2 sous l'attaque Voice Conversion.}
+\label{tab:ablation_study}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{lcccccc}
+\hline
+\textbf{Configuration} & \textbf{SNR (dB)} & \textbf{PESQ} & \textbf{STOI} & \textbf{BER Clean [\%]} & \textbf{BER Post-VC [\%]} & \textbf{Rec. ID [\%]} \\ \hline
+WM1 Seul (AudioSeal) & 39.50 & 4.42 & 0.998 & 0.00 & 43.75 & 0.0 \\
+WM2 Seul (SVD Biom.) & 37.10 & 4.15 & 0.992 & 0.00 & 0.00 & 100.0 \\
+\textbf{Hybride Complet (WM1+WM2)} & \textbf{38.20} & \textbf{4.30} & \textbf{0.997} & \textbf{0.00} & \textbf{0.00} & \textbf{100.0} \\ \hline
+\end{tabular}%
+}
+\end{table}

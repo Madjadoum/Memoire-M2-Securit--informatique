@@ -1,0 +1,4 @@
+Configuration,SNR_dB,PESQ,STOI,BER_Clean_%,BER_Post_VC_%,Subject_ID_Rec_%
+WM1 Seul (AudioSeal),39.5,4.42,0.998,0.0,43.75,0.0
+WM2 Seul (SVD Biom.),37.1,4.15,0.992,0.0,0.0,100.0
+Hybride Complet (WM1+WM2),38.2,4.3,0.997,0.0,0.0,100.0
